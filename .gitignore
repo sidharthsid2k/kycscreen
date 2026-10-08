@@ -46,4 +46,4 @@ app.*.map.json
 
 # Tests and docs exclusion
 test/
-IMPLEMENTATION_PLAN.md
+
