@@ -161,7 +161,7 @@ class CameraOverlayView extends StatelessWidget {
                     GestureDetector(
                       behavior: HitTestBehavior.opaque,
                       onTap: onFlashPressed,
-                      child: SvgPicture.asset(
+                      child: Image.asset(
                         AppAssets.flashIcon,
                         width: AppDimensions.w60,
                         height: AppDimensions.h60,
